@@ -61,7 +61,12 @@ Here are some of the projects and experiences I'm most proud of.
 
 
 ---
-
 ### 🐍 My Contribution Snake
 
-![My GitHub contribution snake animation](https://raw.githubusercontent.com/sadeghianmr/sadeghianmr/output/github-contribution-grid-snake.svg)
+Here's a little animation of my contributions:
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-contribution-snake.vercel.app/api?username=sadeghianmr&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-contribution-snake.vercel.app/api?username=sadeghianmr&theme=light">
+  <img alt="github contribution snake" src="https://github-contribution-snake.vercel.app/api?username=sadeghianmr&theme=light">
+</picture>
