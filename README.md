@@ -58,3 +58,10 @@ Here are some of the projects and experiences I'm most proud of.
 ### 📈 GitHub Stats
 
 (These will automatically update once you uncomment them and merge this file!)
+
+
+---
+
+### 🐍 My Contribution Snake
+
+![My GitHub contribution snake animation](https://raw.githubusercontent.com/sadeghianmr/sadeghianmr/output/github-contribution-grid-snake.svg)
