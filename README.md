@@ -1,8 +1,9 @@
 ## Hey, This is Mohammad Reza! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <div align="center">
-    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=500&center=true&vCenter=true&width=600&lines=M.Sc.+of+Applied+and+Computational+Mathematics;Data+Scientist;Machine+Learning+Specialist)](https://github.com/sadeghianmr)    
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=500&center=true&vCenter=true&width=550&lines=Data+Scientist;M.Sc.+in+Applied+%26+Computational+Math)](https://github.com/sadeghianmr)
+  
 </div>
 
 ### About Me
