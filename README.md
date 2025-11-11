@@ -1,9 +1,8 @@
-<div align="center">
-  
-# Hey, This is Mohammad Reza! 👋
+## Hey, This is Mohammad Reza! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### M.Sc. of Applied and Computational Mathematics
-  
+<div align="center">
+    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=500&center=true&vCenter=true&width=600&lines=M.Sc.+of+Applied+and+Computational+Mathematics;Data+Scientist;Machine+Learning+Specialist)](https://github.com/sadeghianmr)    
 </div>
 
 ### About Me
