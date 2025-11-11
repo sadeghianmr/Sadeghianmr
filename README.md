@@ -1,64 +1,85 @@
-# Hi there, I'm Mohammad Reza Sadeghian 👋
+<div align="center">
+  
+# Hey, This is Mohammad Reza! 👋
 
+### M.Sc. of Applied and Computational Mathematics
+  
+</div>
 
+### About Me
 
-I'm a Data Scientist specializing in transforming complex data into actionable insights. I'm currently completing my **Master of Science in Applied and Computational Mathematics** at Simon Fraser University.
-
-I am passionate about building and deploying end-to-end machine learning solutions, developing robust statistical models, and creating interactive dashboards. My work often involves Python, R, and SQL, and I have hands-on experience in areas like Deep Reinforcement Learning, LLM pipelines, computer vision (CNNs), and bioinformatics.
-
-* 💼 **Portfolio:** [sadeghianmr.github.io](https://sadeghianmr.github.io)
-* 🔗 **LinkedIn:** [linkedin.com/in/sadeghianmr](https://www.linkedin.com/in/sadeghianmr)
-* 📫 **Email:** [mr_sadeghian@sfu.ca](mailto:mr_sadeghian@sfu.ca)
-
----
-
-### 🛠️ My Tech Stack
-
-Here are some of the technologies and tools I work with:
-*(Tip: You can use services like [Shields.io](https://shields.io/) to add visual badges for each skill!)*
-
-* **Programming Languages:** Python, R, SQL, Bash
-* **Python Ecosystem:** Pandas, NumPy, scikit-learn, PyTorch, Statsmodels, Matplotlib, Seaborn, Plotly
-* **R Ecosystem:** tidyverse, ggplot2, dplyr, caret, data.table
-* **ML & Modeling:**
-    * **General:** Regression (Linear, Logistic), Classification (SVM, Random Forest), Clustering (K-Means, DBSCAN)
-    * **Deep Learning:** Neural Networks (ANN, CNN, RNN), Deep Reinforcement Learning
-    * **NLP:** LLM Pipelines, Topic Modeling, Information Extraction
-* **Data Platforms & Tools:** Microsoft Azure, Databricks, PySpark, PostgreSQL/PostGIS, MySQL, Git, Linux
-* **Visualization & Reporting:** Tableau, Power BI, RMarkdown, Quarto
+[cite_start]I'm a Data Scientist and Master's student at Simon Fraser University, specializing in transforming complex data into actionable insights[cite: 5, 33]. [cite_start]I'm passionate about building end-to-end machine learning solutions, developing robust statistical models, and creating interactive data visualizations[cite: 6, 17]. [cite_start]My core expertise is in Python, R, and SQL[cite: 6], and I'm always excited to learn new technologies and collaborate on challenging, data-driven projects.
 
 ---
 
-### 🌱 My Key Projects & Experience
+### 🛠️ Languages, Technologies, and Tools
 
-Here are some of the projects and experiences I'm most proud of.
+<p align="center">
+  <a href="https://www.python.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> 
+  </a>
+  <a href="https://www.r-project.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/> 
+  </a>
+  <a href="https://www.postgresql.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/> 
+  </a>
+  <a href="https://www.mysql.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> 
+  </a>
+  
+  <a href="https://pytorch.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/> 
+  </a>
+  <a href="https://scikit-learn.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/> 
+  </a>
+  <a href="https://pandas.pydata.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/> 
+  </a>
+  <a href="https://numpy.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/> 
+  </a>
 
-#### 💼 Professional Experience
-
-* **Data Analyst Intern | IOTO Corporation**
-    * Engineered a dual-LLM pipeline to automatically analyze and verify parliamentary transcripts.
-    * Built an ideological vectorization framework to map and cluster MPs' political stances.
-* **Research Assistant | Simon Fraser University**
-    * Developed custom computational tools for plasmid detection using Python/NetworkX and a hybrid classifier (ML + Integer Linear Programming).
-* **Research Intern | Amirkabir University**
-    * Designed a Deep Reinforcement Learning portfolio manager in PyTorch for cryptocurrency, improving Sharpe ratio and returns.
-
-#### 🚀 Personal & Course Projects
-
-* **Multi-City Public Transit Performance Analysis**
-    * Built an automated Python pipeline to collect live transit data and store it in a PostgreSQL/PostGIS database.
-    * Calculated KPIs (e.g., on-time performance) using advanced SQL and built an interactive Tableau dashboard.
-* **Age and Gender Prediction from Chest X-rays**
-    * Developed a multi-task deep learning pipeline in PyTorch, benchmarking CNNs like ResNet and DenseNet.
-    * Implemented Bayesian hyperparameter tuning with Optuna and interpreted models using Grad-CAM.
-* **Optimized Model Compression for Fine-Tuned Transformers**
-    * Innovated a data-free compression method using the discrete wavelet transform, achieving over 5x compression with negligible accuracy loss.
+  <a href="https://azure.microsoft.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/> 
+  </a>
+  <a href="https://www.databricks.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/> 
+  </a>
+  <a href="https://www.tableau.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/> 
+  </a>
+   <a href="https://git-scm.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> 
+  </a>
+</p>
 
 ---
 
-### 📈 GitHub Stats
+### 📊 My Github Stats
 
-(These will automatically update once you uncomment them and merge this file!)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadeghianmr&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+<p align="center">
+  </p>
+
+---
+
+### 📫 Contact Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/sadeghianmr">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://sadeghianmr.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:mr_sadeghian@sfu.ca">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ---
 
