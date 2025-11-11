@@ -6,6 +6,11 @@ on:
     - cron: "0 */6 * * *"
   workflow_dispatch:
 
+# --- THIS IS THE NEW PART ---
+permissions:
+  contents: write
+# ---------------------------
+
 jobs:
   build:
     runs-on: ubuntu-latest
