@@ -22,13 +22,38 @@ I'm a Data Scientist and Master's student at Simon Fraser University, specializi
 
 ---
 
-### 📊 My Github Stats
-
+### 📊 My Github Stats (Expand to View)
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadeghianmr&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 <p align="center">
   </p>
+  -->
+
+<details> 
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/sadeghianmr"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sadeghianmr&show_icons=true&locale=en&theme=algolia" alt="sadeghianmr" height="192px"/></a>
+	</p>
+	<p  align="center">
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sadeghianmr&show_icons=true&locale=en&layout=compact&theme=algolia" alt="sadeghianmr" height="192px"/>
+	</p>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+</details>
+
+<details>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+	<a href="https://github.com/sadeghianmr"><img alt="Mo's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sadeghianmr&custom_title=Mo%20Sadeghian's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
+</details>
+
+<br/>
 
 ---
 
