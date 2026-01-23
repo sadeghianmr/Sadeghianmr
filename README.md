@@ -32,6 +32,7 @@ I'm a Data Scientist and Master's student at Simon Fraser University, specializi
 
 ---
 
+<!--
 ### 📫 Contact Me
 
 <p align="center">
@@ -44,6 +45,22 @@ I'm a Data Scientist and Master's student at Simon Fraser University, specializi
   <a href="mailto:mr_sadeghian@sfu.ca">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+</p>
+-->
+
+### 📫 Contact Me
+
+<p align="center">
+  <a href="https://sadeghianmr.github.io"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+	<a href="mailto:mr_sadeghian@sfu.ca"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/Sadeghianmr"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://linkedin.com/in/sadeghianmr"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+  <!--
+	<a href="https://www.facebook.com/candida.noronha.77"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://instagram.com/candyyyy__18"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://www.youtube.com/channel/UC7V1Gm8V0kRLp_EHB8aDj2A"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
+  -->
+	
 </p>
 
 ---
