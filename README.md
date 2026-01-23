@@ -31,17 +31,17 @@ I'm a Data Scientist and Master's student at Simon Fraser University, specializi
   </p>
   -->
 
-<details> 
+<details>
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/sadeghianmr"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sadeghianmr&show_icons=true&locale=en&theme=algolia" alt="sadeghianmr" height="192px"/></a>
-	</p>
-	<p  align="center">
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sadeghianmr&show_icons=true&locale=en&layout=compact&theme=algolia" alt="sadeghianmr" height="192px"/>
-	</p>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+    <a href="https://github.com/sadeghianmr">
+      <img src="https://github-readme-stats.vercel.app/api?username=sadeghianmr&show_icons=true&locale=en&theme=algolia&custom_title=Developer+Stats" alt="sadeghianmr" height="192px"/>
+    </a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sadeghianmr&show_icons=true&locale=en&layout=compact&theme=algolia" alt="sadeghianmr" height="192px"/>
+  </p>
+  <p align="center">
+    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 </details>
 
