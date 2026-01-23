@@ -62,9 +62,3 @@ I'm a Data Scientist and Master's student at Simon Fraser University, specializi
   -->
 	
 </p>
-
----
-
-### 🐍 My GitHub Contributions
-
-![Snake animation](https://github.com/sadeghianmr/sadeghianmr/blob/output/github-contribution-grid-snake.svg)
