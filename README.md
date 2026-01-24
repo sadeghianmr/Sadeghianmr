@@ -43,6 +43,11 @@ I'm a Data Scientist and Master's student at Simon Fraser University, specializi
   <p align="center">
     <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
+<p align="center">
+  <a href="https://github.com/sadeghianmr">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadeghianmr&theme=algolia&hide_border=true" alt="GitHub Streak Stats" />
+  </a>
+</p>
 </details>
 
 <details>
